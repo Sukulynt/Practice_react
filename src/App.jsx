@@ -106,7 +106,7 @@ export const App = () => {
                   value={searchValue}
                   onChange={handleSearchChange}
                 />
-
+ 
                 <span className="icon is-left">
                   <i className="fas fa-search" aria-hidden="true" />
                 </span>
